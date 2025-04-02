@@ -1,4 +1,4 @@
-📊 Desafio 04 - Cientista de Dados | Escola DNC
+📊 Modelo de Regressão Linear para Marketing | Escola DNC
 Este repositório contém a solução do quarto desafio do curso de Cientista de Dados da Escola DNC. O objetivo foi aplicar conceitos de análise de dados, visualização e modelagem para atender a uma demanda real de uma empresa que busca otimizar seus investimentos em publicidade online.
 
 💡 Contexto
